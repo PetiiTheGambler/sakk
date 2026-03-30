@@ -1,0 +1,46 @@
+body {
+    background-image: url("sakk-hatter.png");
+    background-size: 300px;
+}
+
+.cim {
+    font-family: 'Cinzel Decorative', serif;
+    font-size: 96px;
+    text-align: center;
+}
+
+.fk {
+    font-weight: bold;
+}
+
+.feher {
+    color: white;
+    background-color: black;
+    padding: 2px 5px;
+}
+
+.fekete {
+    color: black;
+    background-color: lightgray;
+    padding: 2px 5px;
+}
+
+.ikon {
+    font-size: 6em;
+    text-align: center;
+    margin: 0;
+}
+
+.kepalairas {
+    font-style: italic;
+    text-align: center;
+    font-size: 12px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-top: 5px;
+}
+
+.lista {
+    list-style-image: url("huszar-felsorolas.png");
+    line-height: 2.5;
+}
